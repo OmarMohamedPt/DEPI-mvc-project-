@@ -1,12 +1,6 @@
 ﻿using BLL.Interface;
 using DAL.Data.DbContext;
-using Microsoft.Build.Tasks.Deployment.Bootstrapper;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using DAL.Models.Product;
 
 namespace BLL.Repositories
 {
@@ -23,24 +17,36 @@ namespace BLL.Repositories
             return _appDbContext.SaveChanges();
         }
 
+
         public int Delete(Product product)
         {
-            throw new NotImplementedException();
-        }
-
-        public Product Get(int id)
-        {
-            throw new NotImplementedException();
+            _appDbContext.Products.Remove(product);
+            return _appDbContext.SaveChanges();
         }
 
         public IEnumerable<Product> GetAll()
         {
-            throw new NotImplementedException();
+            return _appDbContext.Products.ToList();
         }
 
         public int Update(Product product)
         {
-            throw new NotImplementedException();
+            _appDbContext.Products.Update(product);
+            return _appDbContext.SaveChanges();
         }
+
+        Product Get(int id)
+        {
+            var product = _appDbContext.Products.Local.Where(p => p.id == id).FirstOrDefault();
+            if (product is null)
+                product = _appDbContext.Products.Where(p => p.id == id).FirstOrDefault();
+            return product;
+
+        }
+
+        
+
+       
+
     }
 }

@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DAL.Models.Product;
+using Product = DAL.Models.Product.Product;
 
 namespace BLL.Interface
 {
@@ -11,12 +13,11 @@ namespace BLL.Interface
     {
         IEnumerable<Product> GetAll();
 
-        Product Get(int id);   
-        int Add(Product product);
-        int Update(Product product);
         int Delete(Product product);
-       
+        int Add(Product product);
+        int Update(Product product);       
 
     
     }
 }
+

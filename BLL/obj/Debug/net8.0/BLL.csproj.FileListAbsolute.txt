@@ -13,3 +13,4 @@ C:\Users\omar2\OneDrive\Desktop\App1\BLL\obj\Debug\net8.0\BLL.dll
 C:\Users\omar2\OneDrive\Desktop\App1\BLL\obj\Debug\net8.0\refint\BLL.dll
 C:\Users\omar2\OneDrive\Desktop\App1\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\omar2\OneDrive\Desktop\App1\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\omar2\OneDrive\Desktop\App1\BLL\obj\Debug\net8.0\BLL.sourcelink.json
