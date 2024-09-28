@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\bll\\repositories\\repositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\repositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\bll\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Interface\\Interface1.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\Interface1.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Interface\\Interface1.cs",
+              "RelativeToolTip": "BLL\\Interface\\Interface1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:50:57.551Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repositorie.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Repositories\\Repositorie.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\Repositorie.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Repositories\\Repositorie.cs*",
+              "RelativeToolTip": "BLL\\Repositories\\Repositorie.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:43:53.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

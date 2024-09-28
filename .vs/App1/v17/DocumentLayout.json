@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\dal\\data\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|solutionrelative:dal\\data\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\dal\\data\\dbcontext\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|solutionrelative:dal\\data\\dbcontext\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\bll\\repositories\\repositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\repositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\bll\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Interface\\Interface1.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\Interface1.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Interface\\Interface1.cs*",
+              "RelativeToolTip": "BLL\\Interface\\Interface1.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:50:57.551Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repositorie.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Repositories\\Repositorie.cs",
+              "RelativeDocumentMoniker": "BLL\\Repositories\\Repositorie.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Repositories\\Repositorie.cs*",
+              "RelativeToolTip": "BLL\\Repositories\\Repositorie.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:43:53.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Data\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Data\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\Data\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:49:56.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Data\\DbContext\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\DbContext\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Data\\DbContext\\DbContextFactory.cs",
+              "RelativeToolTip": "DAL\\Data\\DbContext\\DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:49:55.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
