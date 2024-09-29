@@ -1,6 +1,6 @@
 ﻿using BLL.Interface;
 using DAL.Data.DbContext;
-using DAL.Models.Product;
+using DAL.Models;
 
 namespace BLL.Repositories
 {

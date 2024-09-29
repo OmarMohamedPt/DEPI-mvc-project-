@@ -4,8 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DAL.Models.Product;
-using Product = DAL.Models.Product.Product;
+using Product = DAL.Models.Product;
 
 namespace BLL.Interface
 {

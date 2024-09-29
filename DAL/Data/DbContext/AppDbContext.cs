@@ -1,4 +1,4 @@
-﻿using DAL.Models.Product;
+﻿using DAL.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 

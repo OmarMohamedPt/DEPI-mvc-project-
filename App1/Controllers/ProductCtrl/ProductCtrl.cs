@@ -1,5 +1,5 @@
 ﻿using BLL.Interface;
-using DAL.Models.Product;
+using DAL.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PL.Controllers.ProductCtrl

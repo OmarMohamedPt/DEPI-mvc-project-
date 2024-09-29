@@ -7,24 +7,44 @@
       "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\productctrl\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\productctrl\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\dal\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|solutionrelative:dal\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\dal\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|solutionrelative:dal\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\dal\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|solutionrelative:dal\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\dal\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|solutionrelative:dal\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|solutionrelative:dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\dal\\models\\catigory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEA331-23CA-4CF9-A689-2DABFDB7C823}|DAL\\DAL.csproj|solutionrelative:dal\\models\\catigory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,45 +54,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ContactUs.cshtml",
               "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\ContactUs.cshtml",
               "RelativeDocumentMoniker": "App1\\Views\\Home\\ContactUs.cshtml",
               "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\ContactUs.cshtml",
               "RelativeToolTip": "App1\\Views\\Home\\ContactUs.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T18:54:25.6Z",
+              "WhenOpened": "2024-09-29T22:15:07.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "App1\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "App1\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T18:51:15.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\ProductCtrl\\Index.cshtml",
-              "RelativeDocumentMoniker": "App1\\Views\\ProductCtrl\\Index.cshtml",
-              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\ProductCtrl\\Index.cshtml",
-              "RelativeToolTip": "App1\\Views\\ProductCtrl\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T18:49:50.865Z",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:14:14.333Z",
               "EditorCaption": ""
             },
             {
@@ -83,35 +90,113 @@
               "RelativeDocumentMoniker": "App1\\Views\\Shared\\_Layout1.cshtml",
               "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Shared\\_Layout1.cshtml",
               "RelativeToolTip": "App1\\Views\\Shared\\_Layout1.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T18:20:18.495Z",
+              "WhenOpened": "2024-09-29T22:09:11.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "App1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "App1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T17:38:16.051Z",
+              "DocumentIndex": 3,
+              "Title": "PL",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\PL.csproj",
+              "RelativeDocumentMoniker": "App1\\PL.csproj",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\PL.csproj",
+              "RelativeToolTip": "App1\\PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T22:09:04.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "App1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "App1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Supplier.cs",
+              "RelativeToolTip": "DAL\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T17:36:24.608Z",
+              "WhenOpened": "2024-09-29T22:08:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "App1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "App1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T22:07:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Product.cs",
+              "RelativeToolTip": "DAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:05:42.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Users.cs",
+              "RelativeToolTip": "DAL\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:05:23.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Catigory.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Catigory.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Catigory.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Catigory.cs",
+              "RelativeToolTip": "DAL\\Models\\Catigory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:05:19.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Stock.cs",
+              "RelativeToolTip": "DAL\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:04:02.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\DAL\\Models\\Roles.cs",
+              "RelativeToolTip": "DAL\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:03:11.453Z",
               "EditorCaption": ""
             }
           ]
