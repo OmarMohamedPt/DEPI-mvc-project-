@@ -1,0 +1,31 @@
+﻿@model Product
+@{
+	ViewData["Title"] = "Delete";
+}
+
+<h1 class="alert alert-warning">Are You Sure To Delete This Product !!</h1>
+<br />
+<br />
+<form asp-action="Delete">
+	<div asp-validation-summary="All"></div>
+
+	<div class="form-group">
+		<label class="col-form-label" asp-for="name"> Name </label>
+		<input asp-for="name" class="form-control" readonly />
+	</div>
+
+	<div class="form-group">
+		<label class="col-form-label" asp-for="price">	Price </label>
+		<input asp-for="price" class="form-control" readonly />
+	</div>
+
+	<div class="form-group">
+		<label class="col-form-label" asp-for="description"> Description </label>
+		<input type="text" asp-for="description" class="form-control" readonly />
+	</div>
+	<br />
+
+	<input type="submit" value="Delete" class="btn btn-danger" />
+
+	<a asp-action="Index" class="mt-auto brn btn-gray"> Cancel </a>
+</form>

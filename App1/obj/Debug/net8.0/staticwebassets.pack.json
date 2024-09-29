@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PL.bundle.scp.css",
-      "PackagePath": "staticwebassets\\PL.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

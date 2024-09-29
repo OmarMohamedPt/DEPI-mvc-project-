@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+	<link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+
+    @* StartHead *@
+
+    <nav class="mt-5">
+        <center>
+            <a href="/Home/Index" class="btn btn-primary"> Home </a>
+            <a href="/ProductCtrl/Index" class="btn btn-warning"> About Products </a>
+            <a href="/Home/Privacy" class="btn btn-success"> Privacy </a>
+            <a href="/Home/ContactUS" class="btn btn-white text text-black">Contact US </a>
+            <a href="/Home/Index" class="btn btn-info"> Register </a>
+            <a href="/Home/Index" class="btn btn-danger"> Login </a>
+        </center>
+    </nav>
+
+    @* StartHead *@
+
+
+
+    <div>
+        @RenderBody()
+    </div>
+
+	
+
+
+    @* StartFooter *@
+    <footer class="mt-5">
+        <center>
+            <div>
+                <p> CopyRights &copy; Team One</p>
+            </div>
+
+        </center>
+
+    </footer>
+
+
+    @* StartFooter *@
+
+
+
+
+
+
+</body>
+</html>

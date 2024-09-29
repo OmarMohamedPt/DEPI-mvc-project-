@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\bll\\repositories\\repositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|solutionrelative:bll\\repositories\\repositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\bll\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{624BB14C-D006-45A0-B2DE-BE4540714D7D}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|c:\\users\\omar2\\onedrive\\desktop\\app1\\app1\\views\\productctrl\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5700E7E0-AA42-4A34-B906-99FB7BC162FF}|App1\\PL.csproj|solutionrelative:app1\\views\\productctrl\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Program.cs",
-              "RelativeDocumentMoniker": "App1\\Program.cs",
-              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Program.cs*",
-              "RelativeToolTip": "App1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T16:38:19.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PL",
-              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\PL.csproj",
-              "RelativeDocumentMoniker": "App1\\PL.csproj",
-              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\PL.csproj",
-              "RelativeToolTip": "App1\\PL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-28T16:38:16.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Interface1.cs",
-              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Interface\\Interface1.cs",
-              "RelativeDocumentMoniker": "BLL\\Interface\\Interface1.cs",
-              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Interface\\Interface1.cs",
-              "RelativeToolTip": "BLL\\Interface\\Interface1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T16:23:46.705Z",
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "App1\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "App1\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T18:54:25.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "App1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "App1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T18:51:15.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\ProductCtrl\\Index.cshtml",
+              "RelativeDocumentMoniker": "App1\\Views\\ProductCtrl\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\ProductCtrl\\Index.cshtml",
+              "RelativeToolTip": "App1\\Views\\ProductCtrl\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T18:49:50.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "App1\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Shared\\_Layout1.cshtml*",
+              "RelativeToolTip": "App1\\Views\\Shared\\_Layout1.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T18:20:18.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Repositorie.cs",
-              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Repositories\\Repositorie.cs",
-              "RelativeDocumentMoniker": "BLL\\Repositories\\Repositorie.cs",
-              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\BLL\\Repositories\\Repositorie.cs",
-              "RelativeToolTip": "BLL\\Repositories\\Repositorie.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBwAAAAxAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T17:38:16.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:14:36.421Z",
+              "WhenOpened": "2024-09-29T17:36:24.608Z",
               "EditorCaption": ""
             }
           ]

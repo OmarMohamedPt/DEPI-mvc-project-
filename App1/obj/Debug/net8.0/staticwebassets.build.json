@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LlBXclyRIUMQ70oG2Dd2wX7sGKLRoKDvAylvlE1Q2e4=",
+  "Hash": "L0qCV5MUXW1HYqUfgJ7L4WdMyzwLTI5vMZMTKoMWpgk=",
   "Source": "PL",
   "BasePath": "_content/PL",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PL.styles.css",
-      "SourceId": "PL",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/PL",
-      "RelativePath": "PL.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PL.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PL.bundle.scp.css",
-      "SourceId": "PL",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/PL",
-      "RelativePath": "PL.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PL.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\omar2\\OneDrive\\Desktop\\App1\\App1\\wwwroot\\css\\site.css",
       "SourceId": "PL",

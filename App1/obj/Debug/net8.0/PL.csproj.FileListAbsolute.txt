@@ -60,9 +60,7 @@ C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\staticwebassets\msbui
 C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PL.props
 C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PL.props
 C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\scopedcss\bundle\PL.styles.css
-C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\scopedcss\projectbundle\PL.bundle.scp.css
 C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\PL.csproj.Up2Date
 C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\PL.dll
 C:\Users\omar2\OneDrive\Desktop\App1\App1\obj\Debug\net8.0\refint\PL.dll

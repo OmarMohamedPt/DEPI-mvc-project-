@@ -29,6 +29,11 @@ namespace BLL.Repositories
             return _appDbContext.Products.ToList();
         }
 
+        public Product GetProductById(int id)
+        {
+            return _appDbContext.Find<Product>(id);
+        }
+
         public int Update(Product product)
         {
             _appDbContext.Products.Update(product);

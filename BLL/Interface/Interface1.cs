@@ -13,6 +13,7 @@ namespace BLL.Interface
     {
         IEnumerable<Product> GetAll();
 
+        Product GetProductById(int id);
         int Delete(Product product);
         int Add(Product product);
         int Update(Product product);       
